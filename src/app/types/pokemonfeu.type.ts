@@ -3,4 +3,6 @@ export default class Pokemonfeu {
     name: string;
     taille : string;
     evolution : string;
+    faiblesse : string;
+    attaque: string;
 }
