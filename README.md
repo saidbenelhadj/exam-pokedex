@@ -1,3 +1,11 @@
+# Author
+
+Mr BENELHADJ SAID
+
+# Promotion
+
+Concepteur Développeur d'application promotion 2023 avec webForce3 Marseille
+
 # Pokedex
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.2.
