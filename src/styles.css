@@ -1,1 +1,6 @@
 /* You can add global styles to this file, and also import other style files */
+:main{
+    --pokemonfeu-bg-color:hsl(198, 16%, 84%) ;
+    --pokemonfoudre-bg-color:hsl(55, 62%, 61%) ;
+    --pokemonplante-bg-color:hsl(13, 19%, 91%) ;
+}
