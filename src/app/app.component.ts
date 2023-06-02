@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Pokedex';
+  titleStyle = {'font-family' : 'Arial', 'font-size' : '2rem'};
 }
